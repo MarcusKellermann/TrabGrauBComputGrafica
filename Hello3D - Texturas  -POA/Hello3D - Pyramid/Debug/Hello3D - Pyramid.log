@@ -1,0 +1,11 @@
+﻿  Origem.cpp
+C:\Users\marke\source\repos\TrabalhoDoGrauB\Hello3D - Texturas  -POA\Hello3D - Pyramid\Origem.cpp(68,25): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\marke\source\repos\TrabalhoDoGrauB\Hello3D - Texturas  -POA\Hello3D - Pyramid\Origem.cpp(169,27): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\marke\source\repos\TrabalhoDoGrauB\Hello3D - Texturas  -POA\Hello3D - Pyramid\Origem.cpp(432,26): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\marke\source\repos\TrabalhoDoGrauB\Hello3D - Texturas  -POA\Hello3D - Pyramid\Origem.cpp(460,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marke\source\repos\TrabalhoDoGrauB\Hello3D - Texturas  -POA\Hello3D - Pyramid\Origem.cpp(461,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marke\source\repos\TrabalhoDoGrauB\Hello3D - Texturas  -POA\Hello3D - Pyramid\Origem.cpp(465,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marke\source\repos\TrabalhoDoGrauB\Hello3D - Texturas  -POA\Hello3D - Pyramid\Origem.cpp(466,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marke\source\repos\TrabalhoDoGrauB\Hello3D - Texturas  -POA\Hello3D - Pyramid\Origem.cpp(468,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marke\source\repos\TrabalhoDoGrauB\Hello3D - Texturas  -POA\Hello3D - Pyramid\Origem.cpp(469,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Hello3D - Pyramid.vcxproj -> C:\Users\marke\Source\Repos\TrabalhoDoGrauB\Hello3D - Texturas  -POA\Debug\Hello3D - Textures.exe
